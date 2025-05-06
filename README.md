@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![WhatsApp Image 2025-05-06 at 10 33 09 AM](https://github.com/user-attachments/assets/964431d6-12ab-4b8f-8d2d-43e17ef7d4c2)
 
-### Name:
-### Register Number:
+
+### Name:MIRZHA FATHIMA S
+### Register Number:212224230159
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
